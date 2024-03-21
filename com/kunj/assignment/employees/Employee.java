@@ -6,11 +6,11 @@ public class Employee {
  private double salary;
 
  
- public Employee(String name, int employeeId, double salary) {
-     this.name = name;
-     this.employeeId = employeeId;
-     this.salary = salary;
- }
+// public Employee(String name, int employeeId, double salary) {
+//     this.name = name;
+//     this.employeeId = employeeId;
+//     this.salary = salary;
+// }
 
 
  public String getName() {
